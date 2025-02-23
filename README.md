@@ -16,4 +16,16 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/bandish1304/bandish1304/tree/master/0383-ransom-note) |
+## Array
+|  |
+| ------- |
+| [0274-h-index](https://github.com/bandish1304/bandish1304/tree/master/0274-h-index) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/bandish1304/bandish1304/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/bandish1304/bandish1304/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
