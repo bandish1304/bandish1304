@@ -6,4 +6,3 @@ class Solution:
                 nums[i] = x
                 i += 1
         return i
-        
