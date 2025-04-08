@@ -1,13 +1,1 @@
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/bandish1304/bandish1304/tree/master/0121-best-time-to-buy-and-sell-stock) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/bandish1304/bandish1304/tree/master/0121-best-time-to-buy-and-sell-stock) |
-<!---LeetCode Topics End-->
