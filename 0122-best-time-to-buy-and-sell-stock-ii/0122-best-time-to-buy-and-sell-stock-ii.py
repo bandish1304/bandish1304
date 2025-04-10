@@ -1,23 +1,23 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         i = 0
-        low = 0
-        high = 0
-        profit = 0
+        lo = prices[0]
+        high = prices[0]
         n = len(prices)
+        profit = 0
 
         while i < n-1:
-            # find the lowest point
-            while i < n-1 and prices[i] >= prices [i + 1]:
+            # where to buy
+            while i < n-1 and prices[i] >= prices[i+1]:
                 i += 1
-            low = prices[i]
-            # find the highest point
+            lo = prices[i]
+
+            # where to sell
             while i < n-1 and prices[i] <= prices[i+1]:
                 i += 1
             high = prices[i]
 
-            profit = profit + high - low
+            profit += high - lo
 
         return profit
-
         
