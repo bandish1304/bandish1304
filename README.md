@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bandish1304/bandish1304/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/bandish1304/bandish1304/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/bandish1304/bandish1304/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
