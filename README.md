@@ -37,5 +37,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/bandish1304/bandish1304/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bandish1304/bandish1304/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/bandish1304/bandish1304/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
