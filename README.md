@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bandish1304/bandish1304/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/bandish1304/bandish1304/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/bandish1304/bandish1304/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bandish1304/bandish1304/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/bandish1304/bandish1304/tree/master/0021-merge-two-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
