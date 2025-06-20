@@ -7,6 +7,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/bandish1304/bandish1304/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bandish1304/bandish1304/tree/master/0055-jump-game) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bandish1304/bandish1304/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/bandish1304/bandish1304/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/bandish1304/bandish1304/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bandish1304/bandish1304/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bandish1304/bandish1304/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/bandish1304/bandish1304/tree/master/0274-h-index) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bandish1304/bandish1304/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
