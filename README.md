@@ -7,6 +7,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/bandish1304/bandish1304/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bandish1304/bandish1304/tree/master/0055-jump-game) |
+| [0274-h-index](https://github.com/bandish1304/bandish1304/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/bandish1304/bandish1304/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/bandish1304/bandish1304/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/bandish1304/bandish1304/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
