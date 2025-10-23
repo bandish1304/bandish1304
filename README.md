@@ -27,12 +27,14 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/bandish1304/bandish1304/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/bandish1304/bandish1304/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bandish1304/bandish1304/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bandish1304/bandish1304/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/bandish1304/bandish1304/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/bandish1304/bandish1304/tree/master/0383-ransom-note) |
 ## String Matching
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/bandish1304/bandish1304/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bandish1304/bandish1304/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/bandish1304/bandish1304/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
