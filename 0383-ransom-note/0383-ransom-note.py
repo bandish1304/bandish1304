@@ -1,18 +1,22 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        # First open the counter
         counter = {}
-        for c in magazine:
-            if c in counter:
-                counter[c] += 1
+        #then do for the magazine
+        for x in magazine:
+            if x in counter:
+                counter[x] += 1
             else:
-                counter[c] = 1
-
-        for c in ransomNote:
-            if c not in counter:
+                counter[x] = 1
+        # And then do for the ransomNote
+        for x in ransomNote:
+            if x not in counter:
                 return False
-            elif counter[c] == 1:
-                del counter[c]
+            elif counter[x] == 1:
+                del counter[x]
             else:
-                counter[c] -= 1
-
+                counter[x] -= 1
         return True
+
+        
+        
