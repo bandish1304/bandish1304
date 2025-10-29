@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bandish1304/bandish1304/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/bandish1304/bandish1304/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
