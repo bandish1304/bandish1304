@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/bandish1304/bandish1304/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/bandish1304/bandish1304/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/bandish1304/bandish1304/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/bandish1304/bandish1304/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/bandish1304/bandish1304/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bandish1304/bandish1304/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/bandish1304/bandish1304/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bandish1304/bandish1304/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/bandish1304/bandish1304/tree/master/0202-happy-number) |
 ## Tree
 |  |
 | ------- |
