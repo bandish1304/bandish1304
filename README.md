@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bandish1304/bandish1304/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/bandish1304/bandish1304/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/bandish1304/bandish1304/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/bandish1304/bandish1304/tree/master/0242-valid-anagram) |
@@ -21,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bandish1304/bandish1304/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/bandish1304/bandish1304/tree/master/0049-group-anagrams) |
 ## Math
 |  |
