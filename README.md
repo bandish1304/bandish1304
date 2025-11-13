@@ -20,6 +20,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bandish1304/bandish1304/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/bandish1304/bandish1304/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/bandish1304/bandish1304/tree/master/0242-valid-anagram) |
 ## Array
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bandish1304/bandish1304/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/bandish1304/bandish1304/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/bandish1304/bandish1304/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/bandish1304/bandish1304/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bandish1304/bandish1304/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/bandish1304/bandish1304/tree/master/0219-contains-duplicate-ii) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bandish1304/bandish1304/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/bandish1304/bandish1304/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/bandish1304/bandish1304/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/bandish1304/bandish1304/tree/master/0202-happy-number) |
 ## Tree
