@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bandish1304/bandish1304/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/bandish1304/bandish1304/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/bandish1304/bandish1304/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bandish1304/bandish1304/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/bandish1304/bandish1304/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/bandish1304/bandish1304/tree/master/0219-contains-duplicate-ii) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bandish1304/bandish1304/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/bandish1304/bandish1304/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/bandish1304/bandish1304/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/bandish1304/bandish1304/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bandish1304/bandish1304/tree/master/0219-contains-duplicate-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bandish1304/bandish1304/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
