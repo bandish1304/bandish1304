@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bandish1304/bandish1304/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/bandish1304/bandish1304/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/bandish1304/bandish1304/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bandish1304/bandish1304/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/bandish1304/bandish1304/tree/master/0219-contains-duplicate-ii) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bandish1304/bandish1304/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/bandish1304/bandish1304/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/bandish1304/bandish1304/tree/master/0202-happy-number) |
 ## Tree
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bandish1304/bandish1304/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bandish1304/bandish1304/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
