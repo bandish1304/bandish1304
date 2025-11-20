@@ -29,6 +29,4 @@ class Solution:
             
             q = q[n:]
         return root
-
-
         
