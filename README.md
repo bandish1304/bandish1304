@@ -13,11 +13,13 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bandish1304/bandish1304/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bandish1304/bandish1304/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/bandish1304/bandish1304/tree/master/0173-binary-search-tree-iterator) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bandish1304/bandish1304/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bandish1304/bandish1304/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bandish1304/bandish1304/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bandish1304/bandish1304/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bandish1304/bandish1304/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bandish1304/bandish1304/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/bandish1304/bandish1304/tree/master/0173-binary-search-tree-iterator) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bandish1304/bandish1304/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
