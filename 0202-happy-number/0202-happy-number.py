@@ -1,23 +1,19 @@
 class Solution:
-    def isHappy(self, n: int) -> bool:
-        visit = set()
-
-        while n not in visit:
-            visit.add(n)
-            n = self.sumOfSquares(n)
-
-            if n == 1:
-                return True
-
-        return False
-    
-    def sumOfSquares(self, n: int) -> int:
-        output = 0
-
-        while n:
+    def calc(self, n):
+        curr = 0
+        while n > 0:
             digit = n % 10
-            digit = digit ** 2
-            output += digit
-            n = n // 10
+            curr += digit * digit
+            n //= 10
+        return curr
 
-        return output
+
+    def isHappy(self, n: int) -> bool:
+        seen = set()
+        while n != 1:
+            n = self.calc(n)
+            if n in seen:
+                return False
+            seen.add(n)
+        return True
+        
