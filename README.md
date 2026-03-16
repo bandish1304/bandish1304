@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bandish1304/bandish1304/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/bandish1304/bandish1304/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/bandish1304/bandish1304/tree/master/0202-happy-number) |
 ## Math
@@ -18,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bandish1304/bandish1304/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/bandish1304/bandish1304/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
