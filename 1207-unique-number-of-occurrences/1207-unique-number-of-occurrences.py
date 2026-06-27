@@ -9,4 +9,7 @@ class Solution:
         occur = list(counts.values())
         # check if len(occur) is equal to set then return true
         # otherwise return false
-        return len(occur) == len(set(occur))
+        if len(occur) == len(set(occur)):
+            return True
+        else:
+            return False
