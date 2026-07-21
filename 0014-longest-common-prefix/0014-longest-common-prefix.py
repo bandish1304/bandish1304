@@ -1,19 +1,11 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-
-        # first find the minimum length
-        min_len = float("inf") 
-
-        # make sure it doesnot go out of bound error
-        for s in strs:
-            if len(s) < min_len:
-                min_len = len(s)
-
-        # now we comapare each letters
-        i = 0
-        while i < min_len:
-            for s in strs:
-                if s[i] != strs[0][i]:
-                    return s[:i]
-            i = i+1
-        return s[:i]
+        ["flower", "flow", "flight"]
+        # So first we have to define the prefix
+        # that is the first word in strings which is strs[0]
+        prefix = strs[0]
+        for i in range(len(prefix)):
+            for word in strs:    # This will check every word in strings
+                if i == len(word) or prefix[i] != word[i]:
+                    return prefix[:i]  # This will give the words till match
+        return prefix
