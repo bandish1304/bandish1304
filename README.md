@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bandish1304/bandish1304/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1768-merge-strings-alternately](https://github.com/bandish1304/bandish1304/tree/master/1768-merge-strings-alternately) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bandish1304/bandish1304/tree/master/1071-greatest-common-divisor-of-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/bandish1304/bandish1304/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
